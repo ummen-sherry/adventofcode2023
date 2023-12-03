@@ -48,7 +48,7 @@ fun sumOfCalibrationValuesWithStringDigits(input: List<String>): Int {
 }
 
 fun main(args: Array<String>) {
-    println("Advent 2023")
+    println("Advent 2023 - Day1")
     // Part 1
 //    val input = readFile("day-1-input1.txt")
 //    val sumOfCalibrationValues = sumOfCalibrationValues(input)
